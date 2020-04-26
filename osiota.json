@@ -1,0 +1,13 @@
+{
+	"app": [{
+		"name": "ws-server",
+		"config": {
+			"server": 8080
+		}
+	},{
+		"name": "debug-echo",
+		"config": {
+			"text": "Hallo Welt!"
+		}
+	}]
+}
