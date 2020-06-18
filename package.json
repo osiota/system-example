@@ -16,6 +16,6 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
-    "osiota": "git+ssh://git@github.com/osiota/osiota.git"
+    "osiota": "*"
   }
 }
